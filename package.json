@@ -1,0 +1,20 @@
+{
+  "name": "JJATT-Hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathan-Tao/JJATT-Hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathan-Tao/JJATT-Hackathon/issues"
+  },
+  "homepage": "https://github.com/Jonathan-Tao/JJATT-Hackathon#readme"
+}
